@@ -5,9 +5,9 @@
 * 👨‍💻 I'm a undergraduate majoring in Computer Science & Engineering
 * 🌐 Currently learning Blockchain development
 * ⚡ Competitive Programmer
-* 💪 Want motivation to code? Head over to my [LinkedIn](https://www.linkedin.com/in/itsdivik/) profile. You're in for a surprise 😉..
+* 💪 Want motivation to code? Head over to my [LinkedIn](https://www.linkedin.com/in/itsdivik/) profile 😉..
 * 📖 Bibliophile 💖
-* 🌏 From Kanpur, India
+* 🌏 From Kanpur Uttar Pradesh, India
 * 🐶 Want to know more? Head over to my [portfolio](https://www.divik.site).
   
 [![Divik's github stats](https://github-readme-stats.vercel.app/api?username=itsdivik&count_private=true&show_icons=true)](https://github.com/itsdivik)
